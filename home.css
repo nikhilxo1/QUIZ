@@ -1,0 +1,8 @@
+body{
+    background-image: url("quiz img.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+p{
+    padding: 8px;
+}
